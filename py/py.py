@@ -1,1 +1,2 @@
 print("get")
+print("fetch")
